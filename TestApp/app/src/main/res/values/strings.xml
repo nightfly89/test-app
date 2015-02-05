@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestApp</string>
+
+    <string name="action_search">Search</string>
+    <string name="error_not_enough_characters">Please enter more than 2 characters</string>
+    <string name="label_query_results">Your query results are : \n</string>
+    <string name="button_close">Close</string>
+    <string name="label_no_results">There are no results for your search</string>
+</resources>
