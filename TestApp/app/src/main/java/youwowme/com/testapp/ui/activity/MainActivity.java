@@ -34,9 +34,6 @@ import youwowme.com.testapp.ui.helper.IconHelper;
 
 public class MainActivity extends ActionBarActivity {
 
-    private static final String GROUP_LIST = "GROUP_LIST";
-
-    private TextView tvPeople;
     private ProgressDialog progressDialog;
     private List<Group> groupList;
     private ExpandableListView lvPeople;
