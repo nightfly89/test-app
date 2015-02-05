@@ -3,7 +3,7 @@ Interview Android Test App
 
   Test App was developed using Android Studio, which is being recommended by Google and marketed as the official 
 IDE for Android development (http://developer.android.com/tools/studio/index.html).
-  This work environment has been chose because of its specific for the platform and the Gradle build system which can handle
+  This work environment has been chosen because of its specific for the platform and the Gradle build system which can handle
 Maven Central repositories easily.
   The four libraries added through Gradle were the Android Support Library, Volley and OkHttp for the web request and
 GSON for deserializing the incoming JSON swiftly.
