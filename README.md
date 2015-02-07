@@ -12,3 +12,4 @@ the native search in ActionBar. As no information was provided for the search, i
 the inputted query.
   A custom Api module has been created, to handle the Volley initialization, Request management and Response deserialization 
 using GSON.
+ For the test a PDF file was provided and no resources. The PDF had a link included for the JSON, and the instructions were to find the resources in the resource folder, but this wasn't provided. I found the resources folder, plus the iOS test folder by following the root from the json link. It would've been nice if the files were provided.
